@@ -1,14 +1,30 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+  "435": {
+    "codiceCliente": 1,
+    "smobCode": 2,
+    "mtsid": 3,
+    "targa": 1234,
+    "customerType": "b2b"
+  },
+  "558": {
+    "codiceCliente": 4,
+    "smobCode": 5,
+    "mtsid": 6,
+    "targa": 1237,
+    "customerType": "b2b"
+  },
+  "4517": {
+    "codiceCliente": 2,
+    "smobCode": 3,
+    "mtsid": 4,
+    "targa": 1235,
+    "customerType": "b2c"
+  },
+  "4768": {
+    "codiceCliente": 3,
+    "smobCode": 4,
+    "mtsid": 5,
+    "targa": 1236,
+    "customerType": "b2b"
   }
 }
